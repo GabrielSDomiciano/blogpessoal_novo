@@ -10,9 +10,9 @@ async function bootstrap() {
     .setTitle('Blog Pessoal')
     .setDescription('Projeto Blog Pessoal')
     .setContact(
-      'Diego Rodrigues do Nascimento',
-      'https://www.linkedin.com/in/diegorodriguesdonascimento99-ti/',
-      'diegon@genstudents.org',
+      'Gabriel santos domiciano',
+      'https://www.linkedin.com/in/gabriel-domiciano-34b0b7161/',
+      'gabrield@genstudents.org',
     )
     .setVersion('1.0')
     .addBearerAuth()
